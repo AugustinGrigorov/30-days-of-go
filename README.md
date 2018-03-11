@@ -1,2 +1,3 @@
-# 30-days-of-code-in-go
-Solutions to https://www.hackerrank.com/domains/tutorials/30-days-of-code in go.
+# 30 Days of Code in Go
+
+Solutions to the [HackerRank's 30 Days of Code challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code) in Go.
